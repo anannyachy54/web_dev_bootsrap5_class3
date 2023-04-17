@@ -1,0 +1,15 @@
+.row{
+    border:3px solid black
+   }
+   .bg-danger{
+       border:2px solid plum
+   }
+
+.col{
+    border:5px solid red;
+    height:100px;
+    margin-bottom: :10px;
+    text-align:center;
+    font-size:25px;
+    font-weight:bold;
+}
